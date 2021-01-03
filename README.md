@@ -8,4 +8,4 @@ The all time snake game made with Python for practise
 ## 🐍🐍 The gameplay 🐍🐍
 ![preview](https://github.com/damianstetson17/Snake-game/blob/master/snake_preview.png)
 
-* Made for the purpose of learning about python and Tkinter
+ **Made for the purpose of learning about python and Tkinter**
