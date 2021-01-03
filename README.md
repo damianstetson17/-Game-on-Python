@@ -2,7 +2,7 @@
 The all time snake game made with Python for practise
 
 * ¡Beat your highest score from your previous game! (If you can 👀)
-* 💀 ¡Very addictive! 💀
+* 💀 ¡Very **addictive**! 💀
 
 
 ## 🐍🐍 The gameplay 🐍🐍
